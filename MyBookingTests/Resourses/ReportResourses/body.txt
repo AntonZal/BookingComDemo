@@ -1,0 +1,5 @@
+<div class="image - row"> <h3>{0}</h3>
+<a class="example-image-link" href="file:///{1}" data-lightbox="example-1"> 
+<img class="example-image" src="file:///{2}" alt="DemoReport">
+</a></div>
+<hr>
